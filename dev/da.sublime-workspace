@@ -1,0 +1,1047 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"slid",
+				"slideToggle\t.slideToggle()"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"conte",
+				"content-box"
+			],
+			[
+				"hidden",
+				"hidden-xs"
+			],
+			[
+				"red",
+				"ready\tjQuery(document).ready"
+			],
+			[
+				"trans",
+				"translate3d()"
+			],
+			[
+				"white",
+				"white-space\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"data-",
+				"data-anim\t(custom.js)"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"news_",
+				"news_item__title\t(page-news.php)"
+			],
+			[
+				"shop_",
+				"shop_cat__price"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"filter",
+				"filter_title\t(shop_catalog.html)"
+			],
+			[
+				"hidd",
+				"hidden-xs\t(header.html)"
+			],
+			[
+				"wor",
+				"work_text\t(index.html)"
+			],
+			[
+				"testim_",
+				"testim_name\t(index.html)"
+			],
+			[
+				"benef_",
+				"benef_title\t(index.html)"
+			],
+			[
+				"coll_t",
+				"coll_item__text\t(index.html)"
+			],
+			[
+				"coll_",
+				"coll_item__title\t(index.html)"
+			],
+			[
+				"header",
+				"header_img\t(header.html)"
+			],
+			[
+				"nth",
+				"nth-child(1"
+			],
+			[
+				"team_",
+				"team_name\t(footer.html)"
+			],
+			[
+				"sub",
+				"sub_title\t(footer.html)"
+			],
+			[
+				"bott_",
+				"bott_foot__subtitle\t(footer.html)"
+			],
+			[
+				"bott",
+				"bott_foot\t(footer.html)"
+			],
+			[
+				"form",
+				"form-control\t(footer.html)"
+			],
+			[
+				"for",
+				"form_title\t(footer.html)"
+			],
+			[
+				"foot_",
+				"foot_info__title\t(footer.html)"
+			],
+			[
+				"top_img__",
+				"top_img__subtitle\t(header.html)"
+			],
+			[
+				"top_",
+				"top_img__title\t(header.html)"
+			],
+			[
+				"el",
+				"ellipsis"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"blo",
+				"blog_text"
+			],
+			[
+				"blog",
+				"blog_wr\t(blog.html)"
+			],
+			[
+				"prod_",
+				"prod_price\t(products.html)"
+			],
+			[
+				"data",
+				"data-anim\t(custom.js)"
+			],
+			[
+				"pos",
+				"pos_subtitle\t(contacts.html)"
+			],
+			[
+				"pos_",
+				"pos_title\t(contacts.html)"
+			],
+			[
+				"cont_",
+				"cont_color_subtitle\t(contacts.html)"
+			],
+			[
+				"con_",
+				"cont_box_color\t(contacts.html)"
+			],
+			[
+				"col-sm-offse",
+				"col-sm-offset-2"
+			],
+			[
+				"tes",
+				"testim_item"
+			],
+			[
+				"test",
+				"testimg_title\t(index.html)"
+			],
+			[
+				"osnov",
+				"osnov_text\t(index.html)"
+			],
+			[
+				"osno",
+				"osnov_item\t(index.html)"
+			],
+			[
+				"os",
+				"osnov_item\t(index.html)"
+			],
+			[
+				"line",
+				"line_title"
+			],
+			[
+				"flip_",
+				"flip_numb_wr\t(index.html)"
+			],
+			[
+				"bgs",
+				"bgsz-a\tbackground-size: auto;"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"vid",
+				"vid_text\t(header.html)"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"mob_",
+				"mob_toggle\t(header.html)"
+			],
+			[
+				"cat_",
+				"cat_black_img\t(unitrade-black-friday.html)"
+			],
+			[
+				"form-",
+				"form-group\t(checkout.html)"
+			],
+			[
+				"pare",
+				"parents\t.parents()"
+			],
+			[
+				"in",
+				"input\t(cart.html)"
+			],
+			[
+				"count",
+				"count_inp\t(cart.html)"
+			],
+			[
+				"cout",
+				"count_dec\t(cart.html)"
+			],
+			[
+				"cart_",
+				"cart_name\t(cart.html)"
+			],
+			[
+				"cat_item",
+				"cat_item__img"
+			],
+			[
+				"cat",
+				"cat_item__text\t(catalog.html)"
+			],
+			[
+				"mob_me",
+				"mob_menu_wr\t(header.html)"
+			],
+			[
+				"hi",
+				"hidden-lg\t(index.html)"
+			],
+			[
+				"hid",
+				"hidden-md\t(index.html)"
+			],
+			[
+				"ar",
+				"arr_d.png\tw:9 h:11"
+			],
+			[
+				"visi",
+				"visible-xs"
+			],
+			[
+				"tabs_",
+				"tabs_one_click\t(index.html)"
+			],
+			[
+				"tabs",
+				"tabs_ico_active.png\tw:35 h:35"
+			],
+			[
+				"dost_",
+				"dost_item\t(index.html)"
+			],
+			[
+				"bene",
+				"benef_img"
+			],
+			[
+				"face",
+				"faceb.png\tw:50 h:50"
+			],
+			[
+				"arr",
+				"arr_d.png\tw:9 h:11"
+			],
+			[
+				"pager",
+				"pager_title"
+			],
+			[
+				"pager_",
+				"pager_arr"
+			],
+			[
+				"slide",
+				"slide_text\t(index.html)"
+			],
+			[
+				"index_t",
+				"index_toys"
+			],
+			[
+				"index_",
+				"index_laptop"
+			],
+			[
+				"cir",
+				"circ_link\t(buy-iphone-in-america.html)"
+			],
+			[
+				"index",
+				"index_sec\t(buy-iphone-in-america.html)"
+			],
+			[
+				"news_item__",
+				"news_item__title\t(news.html)"
+			],
+			[
+				"news_item",
+				"news_item__img\t(news.html)"
+			],
+			[
+				"spa",
+				"cellspacing\tAttr"
+			],
+			[
+				"team_pe",
+				"team_person_pos\t(team.html)"
+			],
+			[
+				"team",
+				"team_title_text\t(team.html)"
+			],
+			[
+				"tea",
+				"team_title_pos\t(team.html)"
+			],
+			[
+				"foot",
+				"foot_item__mid\t(footer.html)"
+			],
+			[
+				"footer",
+				"footer1\t(footer.html)"
+			],
+			[
+				"benef",
+				"benef__text\t(index.html)"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"font-s",
+				"font-stretch"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"step",
+				"step_text\t(index_1.html)"
+			],
+			[
+				"ste",
+				"step_item\t(index_1.html)"
+			],
+			[
+				"partn",
+				"partn_1_text\t(index_1.html)"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"title_",
+				"title_mid\t(index.html)"
+			],
+			[
+				"main",
+				"main_sec\t(index.html)"
+			],
+			[
+				"margin",
+				"margin-top\t(stylesheet.css)"
+			],
+			[
+				"pre",
+				"prepend\t.prepend()"
+			],
+			[
+				"комм",
+				"комментариев\t(review.php)"
+			],
+			[
+				"Те",
+				"Тег\t(category.php)"
+			],
+			[
+				"butt",
+				"butt2"
+			],
+			[
+				"poi",
+				"pointer"
+			],
+			[
+				"lis",
+				"list-style\tproperty"
+			],
+			[
+				"toggle",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"remove",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"has",
+				"hasClass\t.hasClass()"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ad",
+				"addClass\t.addClass()"
+			],
+			[
+				"fade",
+				"fadeIn\t.fadeIn()"
+			],
+			[
+				"flip",
+				"flip_text"
+			],
+			[
+				"conta",
+				"contact.png\tw:377 h:91"
+			],
+			[
+				"about",
+				"about_sec"
+			],
+			[
+				"main_",
+				"main_sec"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"lo",
+				"logo_sonmax_china"
+			],
+			[
+				"numb",
+				"numb_text\t(index.html)"
+			],
+			[
+				"start_",
+				"start_online\t(index.html)"
+			],
+			[
+				"start",
+				"start_date\t(index.html)"
+			],
+			[
+				"ti",
+				"ti_toggle_title"
+			],
+			[
+				"ti_t",
+				"ti_toggle_title"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ints",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"sf",
+				"SFTP: Browse Server…"
+			],
+			[
+				"ist",
+				"Package Control: Install Package"
+			],
+			[
+				"sft",
+				"SFTP: Edit Server…"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"mini",
+				"Minify Javascript"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"prefix",
+				"Preferences: Prefixr Key Bindings – User"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"com",
+				"Run CSScomb"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sfst",
+				"SFTP: Setup Server…"
+			],
+			[
+				"s",
+				"SFTP: Browse Server…"
+			],
+			[
+				"ftpsy",
+				"FTPSync: Browse"
+			],
+			[
+				"ftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"is",
+				"Package Control: Install Package"
+			],
+			[
+				"csscom",
+				"Run CSScomb"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"combine",
+				"CombineMediaQueries: Combine media-queries in this file"
+			],
+			[
+				"min",
+				"Minify Javascript to file"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"vie",
+				"View In Browser"
+			],
+			[
+				"vi",
+				"View In Browser"
+			],
+			[
+				"browse",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"serve",
+				"SFTP: Browse Server…"
+			],
+			[
+				"server",
+				"SFTP: Edit Server…"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Channel"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"isn",
+				"Package Control: Install Package"
+			],
+			[
+				"inta",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"istall",
+				"Package Control: Install Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 179.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"gulp watch-dev",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/pro/Documents/sasho/projects/da"
+	],
+	"file_history":
+	[
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-3/stylesheet.css",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-3/header.tpl",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/index.html",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/.env",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/HeikinAshiColor 2.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/sendgrid-php.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/autoload.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/autoload_real.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/autoload_static.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/ResultDecoder.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/ApiClientFactory.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/ApiClient.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/Casper.php",
+		"/Users/pro/Downloads/Casper.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/HeikinAshiColor.php",
+		"/Users/pro/Desktop/index.html",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/learndash.min.css",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/left-panel.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/functions.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/main-global.css",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/buddypress-learndash.min.css",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/footer.tpl",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/header.tpl",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/stylesheet.css",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/bootstrap.min.css",
+		"/Users/pro/Downloads/webcrew_own.sql",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/wp-config 2.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/wp-config.php",
+		"/Users/pro/Documents/sasho/projects/alterEgo/dev/index.html",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-3/index.html",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/style.css",
+		"/Users/pro/Documents/sasho/projects/armprom/dev copy/index.html",
+		"/Users/pro/Documents/sasho/projects/armprom/dev/index.html",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/slideshow.tpl",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/filterpro.css",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/home.tpl",
+		"/Users/pro/Documents/sasho/projects/armprom/dev/design/css/style.css",
+		"/Users/pro/Documents/sasho/projects/alterEgo/dev/design/css/style.css",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/functions 2.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/header-dashboard-links.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/header-profile.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/header.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/shortcodes.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/buycli-index.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/footer.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/index 13.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/__init__.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/index 16.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/index 14.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/index 11.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/index 10.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/wp-activate.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/wp-blog-header.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/wp-config-sample.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/wp-comments-post.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/wp-cron.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/wp-links-opml.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/wp-load.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/wp-login.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/wp-mail.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/wp-settings.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/wp-signup.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/wp-trackback.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/xmlrpc.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/page-index.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/index 12.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/index 17.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/index 15.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/index 7.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/archive.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/404.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/author.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/category.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/comments.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/loop.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/page-constr.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/page-cont.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/page-news.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/page.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/search.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/searchform.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/sidebar.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/single.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/tag.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/woocommerce.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/loco.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/index 9.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/.htaccess",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/index 8.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/index 6.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/index 5.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/index 4.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/index 3.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/index 2.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/index.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/index 4.html",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/index 3.html",
+		"/Users/pro/Desktop/batkin_structure",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/index 2.html",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/callback_reg.php",
+		"/Users/pro/Downloads/oi295317_before1.sql",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/thanks.html",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/video.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/benef.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/custom.js",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/page-specialists.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/jquery.bxslider-rahisified.min.js",
+		"/Users/pro/Downloads/Telegram Desktop/Google Analytics_webcrew.txt",
+		"/Users/pro/Downloads/Telegram Desktop/Facebook Pixel Code _ webcrew.txt",
+		"/Users/pro/Downloads/Telegram Desktop/Facebook Pixel Code_fizika.agency.txt",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/style 2.css",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/form.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/testim.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/page-gal.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/page-contacts.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/page-blog.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/page-price.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/cont.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/header 2.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/page-index 2.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/page-price 2.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/page-prod.php",
+		"/Users/pro/Downloads/energo/page-services.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/loop-index.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/archive 2.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/footer 2.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/functions 3.php",
+		"/private/var/folders/gr/gbj080bs17q31q6ck2vl_cmr0000gn/T/fz3temp-2/template-archives.php"
+	],
+	"find":
+	{
+		"height": 72.0
+	},
+	"find_in_files":
+	{
+		"height": 164.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 72.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 134.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 174.0
+	},
+	"pinned_build_system": "",
+	"project": "da.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"style",
+				"css\\style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/pro/Documents/sasho/projects/da"
+		}
+	],
+	"settings": {
+        "sublime-view-in-browser": {
+            "baseUrl": "http://localhost:8080",
+            "basePath": "/Users/pro/Documents/sasho/projects/da/dev"
+        }
+    }
+}
