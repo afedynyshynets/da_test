@@ -191,7 +191,7 @@ gulp.task("dev-sass", function() {
     .pipe(notify("Done!"));
   gulp
     .src(path.css.file)
-    .pipe(concatCss("out/bundle.css"))
+    .pipe(concatCss("out/styles.css"))
     .pipe(gulp.dest(path.css.src));
 });
 
