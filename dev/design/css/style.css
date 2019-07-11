@@ -396,12 +396,12 @@ aside {
         height: 18px;
         fill: #585858; }
       aside .aside-item.aside-item-cog:hover {
-        border-top: 1px solid transparent;
+        border-top: 1px solid rgba(0, 0, 0, 0);
         background-color: #585858; }
     aside .aside-item:hover {
       cursor: pointer;
       width: 158px;
-      border-bottom: 1px solid transparent;
+      border-bottom: 1px solid rgba(0, 0, 0, 0);
       padding-left: 25px;
       -webkit-box-pack: left;
       -webkit-justify-content: left;
@@ -671,7 +671,7 @@ section {
     .detail-info li:nth-child(1) {
       padding-top: 8px; }
     .detail-info li:nth-last-child(1) {
-      border-bottom: 1px solid transparent; }
+      border-bottom: 1px solid rgba(0, 0, 0, 0); }
   .detail-info .detail-info-title {
     font-family: 'OpenSans', sans-serif;
     font-size: 13px;
